@@ -1,4 +1,4 @@
-# APQP - 2ª Edição - Planejamento Avançado da Qualidade do Produto e Plano de Controle;
+# APQP - 2ª Edição - Planejamento Avançado da Qualidade do Produto e Plano de Controle - Segunda Edição – Julho de 2008
 
 Conhecer o conteúdo de cada um dos seus requisitos e como devem ser aplicados na prática:
 
@@ -17,3 +17,6 @@ Conhecer o conteúdo de cada um dos seus requisitos e como devem ser aplicados n
 - Capítulo 5.0 - Retroalimentação, Avaliação e Ação Corretiva
 
 - Capítulo 6.0 - Metodologia do Plano de Controle
+
+
+
